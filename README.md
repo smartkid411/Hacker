@@ -17,6 +17,9 @@ pip2 install bs4
 
 pip2 install futures
 https://github.com/smartkid411/Hacker.git
+
 ls 
+
 cd Hacker
+
 python2 Ghost.py
